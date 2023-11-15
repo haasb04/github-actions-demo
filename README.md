@@ -1,3 +1,5 @@
+[![AWS 3.6](https://github.com/haasb04/github-actions-demo/actions/workflows/aws.yml/badge.svg)](https://github.com/haasb04/github-actions-demo/actions/workflows/aws.yml)
+
 ![Python application test with Github Actions](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
 
 # github-actions-demo
